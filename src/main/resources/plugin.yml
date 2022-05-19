@@ -1,0 +1,9 @@
+name: Shopdesign REVIVED
+version: '${project.version}'
+main: com.leprofi.addon.shopdesignrevived.ShopdesignRevived
+api-version: 1.18
+depend: [ MBedwars ]
+softdepend: [ PlaceholderAPI ]
+authors: [ LeNinjaHD, Contributors ]
+description: The official "Select Shop Design Addon" remade from scratch for MBedWars v5
+website: https://github.com/LeProfi/Shopdesign-REVIVED
